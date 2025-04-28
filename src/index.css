@@ -1,0 +1,33 @@
+@import "tailwindcss";
+
+:root {
+  background-color: black;
+  font-family:
+    ui-sans-serif,
+    system-ui,
+    sans-serif,
+    "Apple Color Emoji",
+    "Segoe UI Emoji",
+    "Segoe UI Symbol",
+    "Noto Color Emoji";
+}
+
+/* @media (max-width: 640px) {
+  .navbar-logo { max-height: 2.5rem; }
+  .navbar-title { font-size: 1rem; }
+  .navbar-hamburger { padding: 0.75rem; }
+  .navbar-menu-item { font-size: 1.25rem; }
+  .hero-title { font-size: 1.75rem; }
+  .hero-text { font-size: 0.875rem; }
+  .hero-button { padding: 0.5rem 1rem; font-size: 0.75rem; }
+  .urlshortener-input { padding: 0.5rem 0.75rem; font-size: 0.875rem; }
+  .urlshortener-button { padding: 0.5rem 1rem; font-size: 0.875rem; }
+  .urlshortener-text { font-size: 0.875rem; }
+  .grid-card { padding: 0.75rem; }
+  .grid-title { font-size: 1rem; }
+  .grid-text { font-size: 0.75rem; }
+  .footer-section { padding: 0.5rem 0; }
+  .footer-title { font-size: 1rem; }
+  .footer-link { font-size: 0.75rem; }
+  .footer-copyright { font-size: 0.75rem; }
+} */
