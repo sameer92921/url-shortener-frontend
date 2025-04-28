@@ -1,6 +1,6 @@
 import React from "react";
 import Navbar from "./Navbar";
-import UrlShortener from "..components/UrlShortener";
+import UrlShortener from "../components/URLShortener";
 import Footer from "./Footer";
 
 function Landing() {
